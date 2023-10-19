@@ -1,2 +1,2 @@
 # CODSOFT
-Progress of CodSoft Internship
+This repo contains the project information about the codsoft internship
